@@ -11,7 +11,7 @@ Allows for Bonelab modders to access the modding project with the MarrowSDK alre
 <html>
 <body>
 
-<h1>HTML Links</h1>
+
 
 <p><a href="https://github.com/Braindead73German/MarrowSDK.unity.template/releases/tag/v.6.0">MarrowSDK folder</a></p>
 
