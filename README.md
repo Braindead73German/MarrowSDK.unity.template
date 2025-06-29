@@ -13,3 +13,23 @@ Allows for Bonelab modders to access the modding project with the MarrowSDK alre
 `C:\Users\[YOU]`
 3. Select the ,,MarrowSDK" project in unity.
 4. Start modding!
+
+## also PLEASE read my licence cause i dont want to have to report/sue
+Copyright (c) 2025 Eisley (eisleyt123@gmail.com)
+
+Permission is hereby granted to anyone to use, modify, and distribute copies or modified versions of this project, under the following conditions:
+
+1. **Attribution**  
+   You must give appropriate credit to the original creator, Eisley, in any public release of the project or derivative works.
+
+2. **Non-Commercial Use Only**  
+   You may NOT sell, license, or otherwise commercially exploit this project or any derivative work, even if modified.
+
+3. **Permission Required for Redistribution**  
+   You may not redistribute this project or any derivative work to another individual or platform without direct permission from the original creator.  
+   - You may request permission by contacting: eisleyt123@gmail.com
+
+4. **Modification Allowed**  
+   You are free to modify the project for personal or collaborative use, as long as the other terms are followed.
+
+By using this project, you agree to these terms.
