@@ -4,7 +4,7 @@ Allows for Bonelab modders to access the modding project with the MarrowSDK alre
 # BONELAB Unity Template (with MarrowSDK)
 
    Unity version: 2021.3.16f1  
-   Includes: MarrowSDK preinstalled, folders for Avatars, Maps, and Prefabs.
+   Includes: MarrowSDK preinstalled.
 
   ## How to Use
 1. Extract the MarrowSDK folder using a preferred unzipper(or just use the windows unzipper).
