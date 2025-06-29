@@ -15,21 +15,99 @@ Allows for Bonelab modders to access the modding project with the MarrowSDK alre
 4. Start modding!
 
 ## also PLEASE read my licence cause i dont want to have to report/sue
-Copyright (c) 2025 Eisley (eisleyt123@gmail.com)
+Eisley's BONELAB Unity Modding Template License
+Version 1.0 – Issued June 2025
+Email: eisleyt123@gmail.com
 
-Permission is hereby granted to anyone to use, modify, and distribute copies or modified versions of this project, under the following conditions:
+Copyright (c) 2025 Eisley
 
-1. **Attribution**  
-   You must give appropriate credit to the original creator, Eisley, in any public release of the project or derivative works.
+This license governs the use, modification, and distribution of the BONELAB Unity Modding Template created by Eisley. By accessing, using, modifying, or distributing this template or any derivative works, you agree to the terms outlined below.
 
-2. **Non-Commercial Use Only**  
-   You may NOT sell, license, or otherwise commercially exploit this project or any derivative work, even if modified.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. PERMISSION TO USE AND MODIFY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-3. **Permission Required for Redistribution**  
-   You may not redistribute this project or any derivative work to another individual or platform without direct permission from the original creator.  
-   - You may request permission by contacting: eisleyt123@gmail.com
+You are granted free, non-exclusive permission to download, use, and modify this Unity project template for personal, educational, or non-commercial modding purposes.
 
-4. **Modification Allowed**  
-   You are free to modify the project for personal or collaborative use, as long as the other terms are followed.
+You may:
+- Modify the project for your own use.
+- Build avatars, maps, or mods based on the structure.
+- Share screenshots, videos, or tutorials involving your modifications, provided attribution is given.
 
-By using this project, you agree to these terms.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. ATTRIBUTION REQUIREMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Any use, modification, or derivative work of this template must include **clear attribution** to the original creator, Eisley.
+
+Credit should be included in any public distribution, documentation, game mod page, or showcase, and must contain:
+> “Original template by Eisley – eisleyt123@gmail.com”
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NON-COMMERCIAL USE ONLY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You may not:
+- Sell or resell this template or any derivative of it.
+- Package this template or derivatives into any paid tool, asset pack, or training kit.
+- Monetize this template in standalone form, even with changes.
+
+You may monetize projects **built using the template** (like mods or avatars) only if the original template files are not included, and credit is given.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. REDISTRIBUTION REQUIRES PERMISSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You may not redistribute this template or any modified version to others without **explicit written permission** from the creator.
+
+This includes:
+- Uploading the project or template to other platforms
+- Sharing modified versions with other individuals or teams
+- Bundling this template with other modding tools
+
+If you wish to redistribute or fork this template, email permission must be obtained from:
+> eisleyt123@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. AI AND DATA HARVESTING RESTRICTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This template and any derivatives may not be used for:
+- AI or machine learning model training
+- Dataset harvesting or embedding
+- Reverse engineering of creator content using automated systems
+
+This includes commercial or academic AI systems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. VIDEO AND SHOWCASE CONTENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You are allowed and encouraged to:
+- Showcase mods built with this template in YouTube, TikTok, Twitch, or other video platforms.
+- Include a download link or GitHub link to this template in video descriptions.
+
+You must credit the original creator visibly in the video or description.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. NO WARRANTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This project is provided "as-is" with no warranty or guarantee. The creator is not liable for any damage, data loss, or misuse resulting from the use of this template.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. TERMINATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Violation of these terms automatically revokes your permission to use, distribute, or modify this template.
+
+You may regain permission by resolving violations and obtaining direct approval from the creator.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📬 Contact the creator at:  
+**eisleyt123@gmail.com**  
+for permission requests, collaborations, or clarifications.
+
+Happy modding — and thank you for respecting open creative tools.
+
