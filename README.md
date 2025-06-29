@@ -8,7 +8,7 @@ Allows for Bonelab modders to access the modding project with the MarrowSDK alre
 
   ## How to Use
 1. Extract the MarrowSDK folder using a preferred unzipper(or just use the windows unzipper).
-2. Copy/Cut and paste the .tgz into:
-`C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Data\Resources\PackageManager\ProjectTemplates`
-3. Select the ,,MarrowSDK" project template.
+2. Copy/Cut and paste the .zip into:
+`C:\Users\[YOU]`
+3. Select the ,,MarrowSDK" project in unity.
 4. Start modding!
